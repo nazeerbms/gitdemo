@@ -13,9 +13,15 @@ public class App
 		}
 		
 	}
+
+	public void newAddMethod() {
+		
+			System.out.println("Welcome to New Add Method Added by 2nd Dev");
+		
+	}
 	
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
+	public static void main( String[] args )
+	{
+	      System.out.println( "Hello World!" );
+	}
 }
